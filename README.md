@@ -67,9 +67,6 @@
 ​
 ​
 
-# 📅 WBS
-![분석 설계](https://github.com/kuyejin/chunjae_spring/assets/65212187/87602aeb-99c9-47c3-ad5f-a1f17cc7da9d)
-![개발 테스트](https://github.com/kuyejin/chunjae_spring/assets/65212187/7041285b-6a61-4944-b7e7-c180728101b8)
 
 
 ​
